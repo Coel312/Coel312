@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning More full stack stuff
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me github message me if you can do that, or my discord is the same username as my github
-- 😄 Pronouns: boy
+- 😄 Pronouns: male
 - ⚡ Fun fact: I have made many projects
 
 <!---
