@@ -6,6 +6,8 @@
 - 😄 Pronouns: male
 - ⚡ Fun fact: I have made many projects
 
+I currently have a lot of repositories that are private, so the repositories that are public that you can see are not my only projects.
+
 <!---
 Coel312/Coel312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
